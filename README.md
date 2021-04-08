@@ -22,3 +22,5 @@ The project tasks did not include the need to use html and css, but i incorporat
 - Boostrap 4.5
 
 ## Launch
+
+Click on this link to see the site: https://cosmic-chimp.github.io/String-Generator/index.html
