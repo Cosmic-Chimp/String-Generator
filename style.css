@@ -4,9 +4,8 @@
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
-  background-color: #3a3bc;
+  background-color: #3a3b3c;
 }
-
 h2.DataH {
   text-align: center;
   font-family: "Ubuntu", sans-serif;
