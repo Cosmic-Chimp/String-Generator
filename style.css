@@ -4,7 +4,7 @@
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
-  background-color: #3a3b3c;
+  background-color: #3a3bc;
 }
 h2.DataH {
   text-align: center;
@@ -25,8 +25,8 @@ h2.DataH {
     #9733ee 51%,
     #da22ff 100%
   );
-  margin: 10px;
-  padding: 15px 30px;
+  margin: 40px auto;
+  padding: 20px;
   text-align: center;
   text-transform: uppercase;
   transition: 0.5s;
@@ -34,7 +34,7 @@ h2.DataH {
   color: white;
   border-radius: 15px;
   display: block;
-  width: 100%;
+  width: 200px;
   font-size: 16px;
   cursor: pointer;
   border: 0 !important;
